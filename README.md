@@ -40,6 +40,7 @@ For clients interested in purchasing the AceBets.cc pre-made template, we offer 
 Contact us for access to AceBets.cc:
 - Website: [AceBets.cc](https://acebets.cc/home)
 - Telegram: [hazesoft](https://t.me/hazesoft)
+- Discord: [@exchangehub](https://discord.gg/AAjCdDJ6)
 # https://www.youtube.com/watch?v=kDbSGd5Hnzs
 
 *Please note: You need to send us a message to test the casino site.*
