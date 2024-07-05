@@ -4,7 +4,6 @@
 
 Introducing AceBets.cc, your premade online casino template featuring Crypto, CS:GO, Growtopia, and Roblox themes. Start your online casino journey with our comprehensive package of games and features, perfect for launching your own online casino platform.
 
-
 ## How to Install
 
 - **EDIT:** `sql.php`, `config/config.php`, `template/js/app.js` (LINE: 471), `server/config.js`
@@ -41,6 +40,7 @@ For clients interested in purchasing the AceBets.cc pre-made template, we offer 
 Contact us for access to AceBets.cc:
 - Website: [AceBets.cc](https://acebets.cc/home)
 - Telegram: [hazesoft](https://t.me/hazesoft)
+# https://www.youtube.com/watch?v=kDbSGd5Hnzs
 
 *Please note: You need to send us a message to test the casino site.*
 
