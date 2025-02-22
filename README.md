@@ -38,11 +38,9 @@ For clients interested in purchasing the AceBets.cc pre-made template, we offer 
 - Bonus system, referral program, user profiles, and more
 
 Contact us for access to AceBets.cc:
-- Website: [AceBets.cc](https://acebets.cc/home)
-- Telegram: [hesues](https://t.me/hesues)
-- Discord: [hesues](https://discord.gg/AAjCdDJ6)
+- Website: [AceBets.cc]*dm me on discord for updated link*
+- Telegram: *Account Suspended*
+- Discord: Find me on discord by searching [hesues] <= im active here
 # https://www.youtube.com/watch?v=kDbSGd5Hnzs
 
 *Please note: You need to send us a message to test the casino site.*
-
-# Visit [AceBets.cc](https://acebets.cc/) for more information.
